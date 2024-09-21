@@ -1,6 +1,17 @@
+# macOS Finder metadata
 .DS_Store
+
+# VS Code workspace settings and extensions
 .vscode/
+
+# Compiled output directory
 dist/
+
+# Node.js dependencies
 node_modules/
+
+# YAML configuration files
 *.yaml
+
+# Environment variable files
 *.env
